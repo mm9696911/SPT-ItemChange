@@ -1,0 +1,24 @@
+{
+    "CopyChineseLocales": true,
+    "Bullets": [
+        {
+            "itemId": "5efb0c1bd79ff02a1f5e68d9",
+            "desc": "7.62x51 毫米 M993",
+            "damage": 95
+        },
+        {
+            "itemId": "5e023d48186a883be655e551",
+            "desc": "7.62x54R 7N37",
+            "damage": 95
+        }
+    ],
+    "Containers": [
+      
+        {
+            "itemId": "619cbf7d23893217ec30b689",
+            "desc": "注射器收纳盒",
+            "cellsH": 7,
+            "cellsV": 7
+        }
+    ]
+}
